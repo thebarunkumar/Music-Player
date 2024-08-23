@@ -1,5 +1,6 @@
 # Musicr - Redefine the Music Player
 **A pretty UI&UX Music Player**
+* Musicr is a sophisticated music player app that redefines the listening experience with its sleek dark theme and seamless user interface. Built on a single activity, fragment-based architecture, it offers a smooth navigation experience. Key features include an audio visualizer, global play controller, and smart playlist generation based on user hobbies, making Musicr both innovative and deeply personalized for music enthusiasts.
 
 ## Features
 * Dark Theme Style with wallpaper as background
